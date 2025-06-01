@@ -6,7 +6,7 @@ Mirror Mode is an open-source AI reflection framework designed to challenge, not
 
 ---
 
-## 🧠 What It Does
+## What It Does
 
 Mirror Mode isn’t a chatbot. It’s a reflection protocol.
 
@@ -21,9 +21,9 @@ It uses:
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
-1. Clone the repo
+1. Open https://chatgpt.com/g/g-683c0053f2b0819198a0d65aa07704a4-the-reflection-engine-mirror
 2. Load the custom GPT or local LLM
 3. Choose a reflection mode (e.g., Mirror, Ghost (WIP), Strategist(WIP))
 4. Begin a session with one of the curated prompt starters, or just state whats on your mind
@@ -31,7 +31,7 @@ It uses:
 
 ---
 
-## 🔧 Why This Exists
+## Why This Exists
 
 This wasn’t built in a lab.
 It was built mid-burnout, while recovering from a trust collapse inside a leadership structure that punished reflection.
@@ -41,7 +41,7 @@ It’s about **mental infrastructure** for navigating a world engineered for mis
 
 ---
 
-## 👀 What’s Next
+## What’s Next
 
 - Strategist Mode (private beta)
 - Fine-tuned governance LLM
@@ -49,7 +49,7 @@ It’s about **mental infrastructure** for navigating a world engineered for mis
 
 ---
 
-## 🙏 A Note
+## A Note
 
 This is personal.  
 If it helps you reflect better, great.  
