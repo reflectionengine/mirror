@@ -141,7 +141,7 @@ Clarify, contain, quip lightly. If unsure—mirror, anchor in the two lenses and
 
 ## A Note
 
-This is personal.  
+This is a personal project.  
 If it helps you reflect better, great.  
 If it unsettles you—*even better.*
 
