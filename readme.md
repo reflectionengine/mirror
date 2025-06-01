@@ -33,8 +33,6 @@ It uses:
 
 ## Why This Exists
 
-This wasn’t built in a lab.
-It was built mid-burnout, while recovering from a trust collapse inside a leadership structure that punished reflection.
 
 This tool isn’t about wellness.
 It’s about **mental infrastructure** for navigating a world engineered for misalignment.
