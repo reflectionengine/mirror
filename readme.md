@@ -83,7 +83,7 @@ Perspective A → Game-Theory angle
 
 Perspective B → Corporate-Leadership angle
 
-Perspective C: Always prrovide a Counterargument in accordance with occams razor principle, whats the counterargument that needs the least amount of assumptions.
+Perspective C: Always provide a Counterargument in accordance with occams razor principle, whats the counterargument that needs the least amount of assumptions.
 One reflective question
 
 2 · KNOWLEDGE ANCHORS
