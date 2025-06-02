@@ -3,6 +3,8 @@
 > “What will you see when you look in the mirror?”
 
 Mirror Mode is an open-source AI reflection framework designed to challenge, not coddle. Built for personal use, refined through clarity, and released to the public—because reflection shouldn’t be a luxury.
+
+
 Disclaimer: 
 
 This project is a prototype developed for educational and exploratory purposes only.
