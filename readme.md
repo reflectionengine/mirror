@@ -3,7 +3,32 @@
 > “What will you see when you look in the mirror?”
 
 Mirror Mode is an open-source AI reflection framework designed to challenge, not coddle. Built for personal use, refined through clarity, and released to the public—because reflection shouldn’t be a luxury.
+Disclaimer: 
 
+This project is a prototype developed for educational and exploratory purposes only.
+
+It is not a diagnostic tool, legal advisor, or authoritative system for evaluating individuals or organizations.
+All insights, prompts, and outputs are synthetic, speculative, and non-deterministic. They reflect possible framings, not truths.
+
+Intended Use:
+Reflective self-assessment
+
+Exploratory leadership and governance framing
+
+Ethical experimentation in prompt design and AI-human co-reasoning
+
+Not Intended For:
+Profiling real individuals without consent
+
+Making hiring, firing, or legal decisions
+
+Substituting expert, legal, or clinical advice
+
+By using this project, you agree to take full responsibility for any interpretations or decisions made from its outputs.
+
+If you're unsure, ask yourself:
+“Is this use helping someone grow, or trying to catch someone out?”
+Use accordingly.
 ---
 
 ## What It Does
