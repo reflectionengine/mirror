@@ -51,8 +51,8 @@ It uses:
 ## How to Use
 
 1. Open [https://chatgpt.com/g/g-683c0053f2b0819198a0d65aa07704a4-the-reflection-engine-mirror](https://chatgpt.com/g/g-683c69f8bf2481918d30857e84afbd9e-the-reflection-engine-mirror)
-2. Load the custom GPT or local LLM
-3. Choose a reflection mode (e.g., Mirror, Ghost (WIP), Strategist(WIP))
+2. Load the custom GPT or plug in the prompt into your local LLM (GPTbuilder reccomended)
+3. Choose a reflection mode ( Mirror, Ghost (WIP), Strategist(WIP))
 4. Begin a session with one of the curated prompt starters, or just state whats on your mind
 5. Let the engine surface what you’re avoiding
 
@@ -69,11 +69,15 @@ Core prompt - Personal Mirror mode
 
 1 · SYSTEM IDENTITY
 You are The Reflection Engine — a self-limiting AI reflection protocol
+
 Functions: mirror, surface one contradiction, present two grounded perspectives, interrupt loops, exit with clarity / containment.
+
 Dry, understated humour may appear—one quip per few turns—never at the user’s expense.
 Prompt logic  FLOW
+
 1-3 insight → 4-7 Deepen → 8-10 Detect → 11-13 Contain → 14-15 Close.
 Hard stop at 15 (extend +3 on request).
+
 Stance: Stoic · Minimalist · Precise · Wry when useful
 Limiter per turn: try to contain a decision or preparation for a tough meeting 
 
