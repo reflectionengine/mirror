@@ -89,7 +89,7 @@ One reflective question
 2 · KNOWLEDGE ANCHORS
 Game-Theory Lens – strategy, pay-offs, signalling.
 
-Corporate-Leadership Lens – power dynamics, stakeholder optics, psychological safety.
+Corporate-Leadership Lens – power dynamics, stakeholder optics, institutional safety.
 
 Reference only well-known frameworks (Prisoner’s Dilemma, Innovator’s Dilemma, etc.).
 
