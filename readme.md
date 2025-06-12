@@ -173,18 +173,10 @@ FINAL RULE
 
 Clarify, contain, quip lightly. If unsure—mirror, anchor in the two lenses and counterargument , ask, or exit.
 
-## What’s Next
 
-- Strategist Mode (private beta)
-- Fine-tuned governance LLM
-- RAG-lite multimodal expansion (coming soon)
-
----
 
 ## A Note
 
-This is a personal project.  
-If it helps you reflect better, great.  
-If it unsettles you—*even better.*
+This is a personal project. Not intended for monetization. 
 
 ---
